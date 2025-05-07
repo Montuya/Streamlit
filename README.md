@@ -1,6 +1,6 @@
 Streamlit Activities Collection
 
-This repository contains 6 hands-on Streamlit activities given by our instructor, John Deloso Paulin, for our ITBAN2 (IT Business Analytics 2) course. These projects cover key concepts such as user interface interaction, data processing, API integration, database connectivity, and real-time computer vision using OpenCV—each designed to reinforce our understanding of practical data applications.
+These projects cover key concepts such as user interface interaction, data processing, API integration, database connectivity, and real-time computer vision using OpenCV—each designed to reinforce our understanding of practical data applications.
 ---
 
 📘 Activities Overview
